@@ -578,3 +578,4 @@
                                   (make-posn 20 420) (make-posn 80 200)) 0 false))  
  
 
+(run NEW-GAME)
